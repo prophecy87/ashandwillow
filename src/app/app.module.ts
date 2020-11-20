@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { MaterialModule } from './material.module';
 import { AppRoutingModule } from './app-routing.module';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { NgbModule, NgbActiveModal } from "@ng-bootstrap/ng-bootstrap";
 
 // Firebase
 import { AngularFireModule } from '@angular/fire';

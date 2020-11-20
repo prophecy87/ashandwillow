@@ -1,22 +1,19 @@
 /* resize images */
-.banner .banner-image img {
-    display:block;
-    margin-right: 0px;
-    margin-left: 800%;
-    height: 64px;
-    width: 110px;
-}
-
 #company-name{
     padding-top: 10px;
-    padding-right: 5px;
-    margin-right: 50px;
+}
+
+#main-menu .btn{
+    margin-right: 20%;
+}
+
+#main-menu a{
+    margin-right: 10%;
 }
 
 p{
     font-family: Billabong;
 }
-
 .mat-toolbar.mat-primary {
     background: #F5F1F3;
     /*background: #7FA493;*/

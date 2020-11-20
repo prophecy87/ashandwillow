@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MatSidenav} from '@angular/material/sidenav';
 
 @Component({
   selector: 'app-root',
@@ -6,6 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Ash & Willow Beauty Salon';
-  collapsed = false;
+  title = 'Ash & Willow';
 }
